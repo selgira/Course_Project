@@ -1,0 +1,156 @@
+{
+    "candidates": [
+        {
+            "name": "Сельгира Сангаджи-Горяева",
+            "skills": "Python, Django, SQL",
+            "experience": 5
+        },
+        {
+            "name": "Мария Смирнова",
+            "skills": "JavaScript, React, HTML, CSS",
+            "experience": 3
+        },
+        {
+            "name": "Алексей Кузнецов",
+            "skills": "Java, Spring, MySQL",
+            "experience": 4
+        },
+        {
+            "name": "Елена Попова",
+            "skills": "C++, Qt, OpenGL",
+            "experience": 7
+        },
+        {
+            "name": "Дмитрий Сидоров",
+            "skills": "Python, Flask, Docker",
+            "experience": 6
+        },
+        {
+            "name": "Анна Петрова",
+            "skills": "Project Management, Agile, Scrum",
+            "experience": 8
+        },
+        {
+            "name": "Максим Волков",
+            "skills": "JavaScript, Node.js, MongoDB",
+            "experience": 2
+        },
+        {
+            "name": "Светлана Николаева",
+            "skills": "Python, Machine Learning, TensorFlow",
+            "experience": 4
+        },
+        {
+            "name": "Ольга Васильева",
+            "skills": "PHP, Laravel, SQL",
+            "experience": 5
+        },
+        {
+            "name": "Григорий Крылов",
+            "skills": "C#, .NET, Azure",
+            "experience": 3
+        },
+        {
+            "name": "Наталья Орлова",
+            "skills": "Data Analysis, Python, SQL",
+            "experience": 6
+        },
+        {
+            "name": "Павел Михайлов",
+            "skills": "DevOps, AWS, Kubernetes",
+            "experience": 5
+        },
+        {
+            "name": "Виктория Сергеева",
+            "skills": "UI/UX Design, Figma, Adobe XD",
+            "experience": 2
+        },
+        {
+            "name": "Николай Романов",
+            "skills": "Java, Android Development",
+            "experience": 4
+        },
+        {
+            "name": "Ирина Шестакова",
+            "skills": "Marketing, SEO, Google Analytics",
+            "experience": 7
+        }
+    ],
+    "vacancies": [
+        {
+            "title": "Backend-разработчик",
+            "employer_id": 1,
+            "requirements": "Python, Django, SQL"
+        },
+        {
+            "title": "Frontend-разработчик",
+            "employer_id": 1,
+            "requirements": "JavaScript, React, HTML, CSS"
+        },
+        {
+            "title": "Java-разработчик",
+            "employer_id": 1,
+            "requirements": "Java, Spring, MySQL"
+        },
+        {
+            "title": "C++ разработчик",
+            "employer_id": 1,
+            "requirements": "C++, Qt, OpenGL"
+        },
+        {
+            "title": "DevOps-инженер",
+            "employer_id": 1,
+            "requirements": "DevOps, AWS, Kubernetes"
+        },
+        {
+            "title": "Data Scientist",
+            "employer_id": 1,
+            "requirements": "Python, Machine Learning, TensorFlow"
+        },
+        {
+            "title": "PHP-разработчик",
+            "employer_id": 1,
+            "requirements": "PHP, Laravel, SQL"
+        },
+        {
+            "title": "Project Manager",
+            "employer_id": 1,
+            "requirements": "Project Management, Agile, Scrum"
+        },
+        {
+            "title": "UI/UX Designer",
+            "employer_id": 1,
+            "requirements": "UI/UX Design, Figma, Adobe XD"
+        },
+        {
+            "title": "Mobile-разработчик",
+            "employer_id": 1,
+            "requirements": "Java, Android Development"
+        },
+        {
+            "title": "Маркетолог",
+            "employer_id": 2,
+            "requirements": "Marketing, SEO, Google Analytics"
+        },
+        {
+            "title": "Системный аналитик",
+            "employer_id": 2,
+            "requirements": "Data Analysis, Python, SQL"
+        },
+        {
+            "title": "Cloud Engineer",
+            "employer_id": 1,
+            "requirements": "C#, .NET, Azure"
+        },
+        {
+            "title": "Fullstack-разработчик",
+            "employer_id": 1,
+            "requirements": "JavaScript, Node.js, MongoDB"
+        },
+        {
+            "title": "Python-разработчик",
+            "employer_id": 1,
+            "requirements": "Python, Flask, Docker"
+        }
+    ]
+}
